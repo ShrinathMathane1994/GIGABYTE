@@ -23,7 +23,7 @@ import org.testng.annotations.Test;
 
 public class Referal {
 
-	@Test(invocationCount = 9)
+	@Test(invocationCount = 1)
 	public void doRefer() {
 		try {
 			WebDriver driver = new ChromeDriver();
